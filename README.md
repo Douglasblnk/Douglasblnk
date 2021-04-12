@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Douglasblnk's github stats](https://github-readme-stats.vercel.app/api?username=douglasblnk&count_private=true&show_icons=true&custom_title=Github%20Status&theme=onedark)
+
 <!--
 **Douglasblnk/Douglasblnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
