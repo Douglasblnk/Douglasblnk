@@ -1,19 +1,16 @@
-### Hi there 👋
+
+💻 Full Stack Developer at Multiplier <br>
+📌 Jaraguá do Sul, SC - Brazil
+
+🌱 I’m currently learning React and Serverless Framework
+
+### 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-blank/?locale=en_US)](https://www.linkedin.com/in/douglas-blank/?locale=pt_br)
+
+[![Email Badge](https://img.shields.io/badge/-Gmail-EEE?style=flat-square&logo=Gmail&link=douglasblank1@gmail.com)](mailto:douglasblank1@gmail.com)
 
 
-![Douglasblnk's github stats](https://github-readme-stats.vercel.app/api?username=douglasblnk&count_private=true&show_icons=true&custom_title=Github%20Status&theme=onedark)
 
-<!--
-**Douglasblnk/Douglasblnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=douglasblnk&count_private=true&show_icons=true&custom_title=Github%20Status&theme=onedark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasblnk&layout=compact)
