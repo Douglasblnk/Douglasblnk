@@ -2,7 +2,7 @@
 ### 💻 Full Stack Developer at Multiplier <br>
 📌 Jaraguá do Sul, SC - Brazil
 
-🌱 I’m currently learning React and Serverless Framework
+🌱 I’m currently learning Flutter and Serverless Framework
 
 
 <br> 📫 How to reach me: <br>
