@@ -3,7 +3,7 @@
 
 📌 Jaraguá do Sul, SC - Brazil<br>
 🎓 Sistemas para Internet at SENAI<br>
-🌱 I’m currently learning Vue 3, Vite, Nest.js and Serverless Framework <br><br>
+🌱 I’m currently learning Vue 3, Vite, GoLang and Serverless Framework <br><br>
 
 **Languages:** <br>
 []()
