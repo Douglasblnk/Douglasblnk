@@ -23,10 +23,3 @@
 
 <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=douglasblnk&count_private=true&show_icons=true&custom_title=Github%20Status&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasblnk&layout=compact&theme=onedark)
-
-|Código|Label           |Cor             |
-|------|----------------|----------------|
-|1     |Cadastrado      |status-turquoise|
-|2     |Pré-cadastrado  |status-pink     |
-|3     |Lead            |status-blue     |
-|3     |Lead Qualificado|status-blue     |
