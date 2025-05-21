@@ -1,5 +1,5 @@
 
-### 💻 Software engineer at [Multiplier](https://github.com/multiplierx)<br> <br>
+### 💻 Software engineer
 
 📌 Jaraguá do Sul, SC - Brazil<br>
 🎓 Sistemas para Internet at SENAI<br>
